@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/zshee/Desktop/2AA4/sheetz/A3/implementation/include/CardStack.h
+CardTypes.h
+C:/Users/zshee/Desktop/2AA4/sheetz/A3/implementation/include/CardTypes.h
+Stack.h
+C:/Users/zshee/Desktop/2AA4/sheetz/A3/implementation/include/Stack.h
+
+C:/Users/zshee/Desktop/2AA4/sheetz/A3/implementation/include/CardTypes.h
+
+C:/Users/zshee/Desktop/2AA4/sheetz/A3/implementation/include/GameBoard.h
+array
+-
+vector
+-
+functional
+-
+stdexcept
+-
+CardStack.h
+C:/Users/zshee/Desktop/2AA4/sheetz/A3/implementation/include/CardStack.h
+CardTypes.h
+C:/Users/zshee/Desktop/2AA4/sheetz/A3/implementation/include/CardTypes.h
+
+C:/Users/zshee/Desktop/2AA4/sheetz/A3/implementation/include/Stack.h
+vector
+-
+stdexcept
+-
+
+C:/Users/zshee/Desktop/2AA4/sheetz/A3/implementation/src/GameBoard.cpp
+../include/GameBoard.h
+C:/Users/zshee/Desktop/2AA4/sheetz/A3/implementation/include/GameBoard.h
+
